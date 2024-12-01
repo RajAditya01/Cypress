@@ -19,7 +19,7 @@ describe('Login Feature', () => {
   
     it('should show an error for invalid credentials', () => {
       // Visit the login page
-      cy.visit('http://localhost:3000/login');
+      cy.visit('https://dribbble.com/session/new');
   
       // Enter incorrect username and password
       cy.get('input[name="username"]').type('wronguser');
