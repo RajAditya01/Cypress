@@ -1,6 +1,6 @@
 # 🌟 Cypress Testing Framework 🚀
 
-![Cypress Logo](https://www.cypress.io/static/33498b5f95008093f5f210bf11c8bd08/cypress-logo.webp)
+![image](https://github.com/user-attachments/assets/a9f59be3-c99c-4573-8a3e-0c09a42e88d3)
 
 > **Modern, Fast, and Reliable End-to-End Testing for Anything that Runs in a Browser**
 
